@@ -2,7 +2,7 @@ pr: none
 trigger: none
 
 variables:
-- group: mlops-demo-vg
+- group: nss-azure-vg
 
 stages:
 - stage: 'Dev'
